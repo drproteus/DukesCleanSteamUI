@@ -7,7 +7,7 @@ Steam skin, removing the following elements from the client UI
 - Game detail page:
   - Survey section ('Would you like to recommend ...')
   - Activity input box
-- Titlebar
+- Titlebar:
   - Steam wallet account balance (available in drop-down still)
   
   
