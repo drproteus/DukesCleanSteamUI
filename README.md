@@ -1,3 +1,7 @@
+**WARNING:** No longer working after recent Steam update. See https://github.com/DukeDukeEm/DukesCleanSteamUI/issues/2
+
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
+
 # DukesCleanSteamUI
 
 Steam skin, removing the following elements from the client UI
